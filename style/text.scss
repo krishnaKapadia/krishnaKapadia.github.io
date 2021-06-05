@@ -1,0 +1,56 @@
+.heading-1 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2.6em;
+  color: black;
+}
+
+.heading-2 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2em;
+  margin-bottom: 12px;
+  color: black;
+}
+
+.heading-3 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1.4em;
+  color: black;
+}
+
+.project-item h3,
+.project-item p {
+  color: white !important;
+}
+
+.subheading-1 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1.8em;
+  // color: black;
+}
+
+.subheading-3 {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  // color: black;
+}
+
+.link {
+  font-family: 'Open Sans';
+}
+
+ul {
+  list-style-type: disc;
+}
+
+b,
+.location-text {
+  font-family: 'Open Sans';
+}
+
+p {
+  color: black;
+}
